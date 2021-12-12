@@ -1,0 +1,11 @@
+alert: pop-up    alert("Isso será exibido para o usuário");
+document.write: colocar um texto, escrever no html
+" entre " : texto
+algo  + algo : algoalgo (concatenação)
+pular linha: <br>
+recebe: =
+variavel: var
+Math: matematica
+round: aredondar
+function: colocar uma função
+// : ignora a linha(comentario)

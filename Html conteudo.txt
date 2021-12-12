@@ -1,0 +1,6 @@
+Começo de declaração: < >  fim  </ >
+Pular linha: <br>
+Marcar conteúdo: <h1>  fim  </h1>
+Arrumar acentuação: <meta charset="UTF-8">
+Colocar JSscript: <script>  fim  </script>
+Conferir se tem erro pelo navegador: Crtl + Shift + C
